@@ -1,0 +1,67 @@
+.parent1{
+    width: 60%;
+    height: 650px;
+    background-color: blue;
+    margin-left: 250px;
+    
+}
+.text{
+    text-align: center;
+    color: white;
+}
+.para{
+    position: relative;
+    top: 20px;
+}
+.parent2{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-left: 50px;
+}
+.child{
+    width: 200px;
+    height: 300px;
+    background-color: whitesmoke;
+    text-align: center;
+   
+}
+
+.one{
+    margin-top: 50px;
+}
+
+.two{
+    padding-top: 50px;
+    
+    
+}
+.three{
+    margin-top: 50px;
+}
+.para1{
+    width: 150px;
+    padding: 10px;
+    background-color: pink;
+    margin-top: -50px;
+    margin-left: 15px;
+}
+.s{
+    color: orange;
+    margin-top: -10px;
+    
+}
+.button{
+    color: darkblue;
+    margin-top: -15px;
+   
+}
+.shiva{
+    color: lightslategray;
+    margin-top: -10px;
+}
+.link{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
